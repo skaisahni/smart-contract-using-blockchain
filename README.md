@@ -8,7 +8,7 @@ This README would normally document whatever steps are necessary to get your app
   In this project, we try to develop the smart contract for client and vendor for proper agreement in ethereurm framework.
 * Version==1.0.0
 
-* Dependencies: Ganache ClI; Truffle; Web3.js; Ethereum Framework;
+* Dependencies: Ganache ClI; Truffle; Web3.js; Ethereum Framework;Npm;
 * programming language: Solidity.
   
 
